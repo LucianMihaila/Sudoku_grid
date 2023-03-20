@@ -1,4 +1,3 @@
-# Write your solution here
 def row_correct(sudoku:list,row_no:int):
     linie=sudoku[row_no]
     lista=set()
